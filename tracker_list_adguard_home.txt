@@ -1556,6 +1556,10 @@
 ||sensic.net^
 ||sensorsdata.cn^
 ||sentry.io^
+||sentry.io^
+||sentry.com^
+||sentry-cdn.com^
+||sentry-cdn.io^
 ||seroundprince.com^
 ||servebom.com^
 ||servenobid.com^
